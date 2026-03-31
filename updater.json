@@ -1,0 +1,18 @@
+{
+    "rawname": "sccpsync",
+    "repo": "stable",
+    "name": "SCCP Sync",
+    "version": "1.0.0",
+    "publisher": "miervo",
+    "license": "GPLv3",
+    "licenselink": "http://www.gnu.org/licenses/gpl-3.0.txt",
+    "changelog": "*1.0.0* Initial release",
+    "category": "Other",
+    "description": "Syncs sccpline.label to FreePBX Display Name fields. Fixes SCCP phone button config being lost on extension edit.",
+    "depends": {
+        "version": "16.0"
+    },
+    "location": "https://github.com/miervo/sccpsync/releases/download/v1.0.0/sccpsync.tar.gz",
+    "md5sum": "25609123358f9ff34878f6982a98db21",
+    "packaged": "1774958171"
+}
