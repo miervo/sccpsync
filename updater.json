@@ -6,7 +6,7 @@
     "publisher": "miervo",
     "license": "GPLv3",
     "licenselink": "http://www.gnu.org/licenses/gpl-3.0.txt",
-    "changelog": "*1.0.0* Initial release",
+    "changelog": "*16.0.0* Initial release",
     "category": "Other",
     "description": "Syncs sccpline.label to FreePBX Display Name fields. Fixes SCCP phone button config being lost on extension edit.",
     "depends": {
