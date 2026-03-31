@@ -18,4 +18,5 @@
     <changelog>
 *1.0.0* Initial release — sccpline.label to users.name sync on Apply Config
     </changelog>
+    <updateurl>https://raw.githubusercontent.com/miervo/sccpsync/main/updater.json</updateurl>
 </module>
