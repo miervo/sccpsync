@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <rawname>sccpsync</rawname>
+    <repo>standard</repo>
+    <name>SCCP Label Sync</name>
+    <version>1.0.0</version>
+    <publisher>Local</publisher>
+    <license>GPLv3</license>
+    <licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
+    <description>Синхронизирует sccpline.label → FreePBX users.name при каждом Apply Config. Устраняет проблему подстановки номера вместо имени при редактировании SCCP-экстенов через стандартный интерфейс FreePBX.</description>
+    <category>Other</category>
+    <depends>
+        <module>
+            <rawname>core</rawname>
+            <version>15.0.0</version>
+        </module>
+    </depends>
+    <changelog>
+*1.0.0* Initial release — sccpline.label to users.name sync on Apply Config
+    </changelog>
+</module>
